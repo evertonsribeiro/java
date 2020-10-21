@@ -12,8 +12,8 @@ public class programa2 {
 	     JPanel panel = new JPanel();
 	     
 	     JButton btn1 = new JButton("Seja bem-vindo(a)");
-	     JButton btn2 = new JButton("programação para leigos");
-	     JButton btn3 = new JButton("INtrodução a linguagem Java)");
+	     JButton btn2 = new JButton("Iniciando o estudo de Java");
+	     JButton btn3 = new JButton("Introdução a linguagem Java)");
 	     
 	     panel.setLayout(new BorderLayout(1,0));
 	     
